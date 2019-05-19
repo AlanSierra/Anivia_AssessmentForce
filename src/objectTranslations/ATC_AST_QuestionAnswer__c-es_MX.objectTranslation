@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Question answer</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Question answers</value>
+    </caseValues>
+    <fields>
+        <help><!-- Ask what this answer belongs to. --></help>
+        <label><!-- Question --></label>
+        <name>ATC_AST_Question__c</name>
+        <relationshipLabel><!-- Question Answers --></relationshipLabel>
+    </fields>
+    <gender>Masculine</gender>
+</CustomObjectTranslation>
